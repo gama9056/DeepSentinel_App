@@ -7,4 +7,6 @@ rioxarray
 folium
 streamlit-folium
 opencv-python-headless
-super-image==0.1.7
+super-image==0.1.6
+torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
+torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cpu
