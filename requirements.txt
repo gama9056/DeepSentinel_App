@@ -2,12 +2,9 @@ streamlit
 super-image
 pystac-client
 odc-stac
-rasterio
 geopandas
+rasterio
 rioxarray
-xarray
 folium
 streamlit-folium
-torch
-torchvision
 opencv-python-headless
