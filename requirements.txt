@@ -1,8 +1,13 @@
-streamlit
+streamlit==1.33.0
 numpy
+pandas
 pystac-client
 odc-stac
 geopandas
+fiona
+shapely
+pyproj
+rtree
 rasterio
 rioxarray
 folium
