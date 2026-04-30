@@ -1,5 +1,4 @@
 libgdal-dev
 g++
-libglib2.0-0
 libspatialindex-dev
 libproj-dev
