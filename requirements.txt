@@ -1,0 +1,12 @@
+streamlit
+super-image
+pystac-client
+odc-stac
+rasterio
+geopandas
+rioxarray
+xarray
+folium
+streamlit-folium
+torch
+torchvision
