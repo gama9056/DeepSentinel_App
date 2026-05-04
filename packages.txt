@@ -2,3 +2,5 @@ libgdal-dev
 g++
 libspatialindex-dev
 libproj-dev
+libgl1-mesa-glx
+libglib2.0-0
