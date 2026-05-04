@@ -13,6 +13,6 @@ rioxarray
 folium
 streamlit-folium
 Pillow
-torch==2.1.2
-torchvision==0.16.2
+torch==2.0.1
+torchvision==0.15.2
 super-image==0.1.6
